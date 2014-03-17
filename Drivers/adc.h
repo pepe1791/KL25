@@ -2,7 +2,7 @@
  * ADC.h
  *
  *  Created on: Aug 14, 2013
- *      Author: Jose Manuel Sandoval
+ *      Author: Jose
  */
 
 #ifndef ADC_H_
